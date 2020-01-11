@@ -1,5 +1,5 @@
 # Form-Validation-Webpage
-A webpage displaying form vaidation functionality using Regex 
+A webpage displaying form vaidation functionality using Regex.
 
 # Additional Information
 This was a project my web dev class focusing on javascript. I reuploaded this as part of my GitHub cleanup. 
