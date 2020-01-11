@@ -1,0 +1,27 @@
+﻿
+/*
+    Author: Noah Gumm
+    Date: 09/29/2019
+*/
+
+body {
+    background-color: gainsboro;
+}
+
+form, #thankYouDiv {
+    background-color: azure;
+    padding: 2em;
+    margin: auto;
+    margin-top: 2em;
+    width: 30%;
+}
+
+#errorDiv {
+    background-color: azure;
+    display: inline-block;
+    position: absolute;
+    right: 75%;
+    top: 45%;
+    bottom: 45%;
+    text-align: center;
+}
